@@ -1,3 +1,9 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.video {
+    border: 1px solid orange;
+    height: 380px;
+    width: 640px;
+}

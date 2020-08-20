@@ -9,7 +9,8 @@
             🐶Door
         </title>
     </head>
-
+    <p>DOG DOOR 🐶</p>
+    <img src="http://192.168.1.3:8081" alt="" class="video">
     <form action="./run.php" method="post">
         <input type="submit" value="OPEN" name="GO">
     </form>
