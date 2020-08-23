@@ -40,7 +40,7 @@ halfstep_seq = [
 
 
 def openOne():
-    for i in range(350):
+    for i in range(512):
         for halfstep in range(8):
             for pin in range(4):
                 GPIO.output(control_pins[pin], halfstep_seq[halfstep][pin])
@@ -48,7 +48,7 @@ def openOne():
 
 
 def openTwo():
-    for i in range(350):
+    for i in range(512):
         for halfstep in range(8):
             for pin in range(4):
                 GPIO.output(pins_two[pin], backwards[halfstep][pin])
