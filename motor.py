@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 import time
 
 GPIO.setmode(GPIO.BOARD)
-control_pins = [7, 11, 13, 15]
+control_pins = [32, 36, 38, 40]
 pins_two = [29, 31, 33, 35]
 
 for pin in control_pins:
