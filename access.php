@@ -10,7 +10,7 @@
         </title>
     </head>
     <p>DOG DOOR 🐶</p>
-    <img src="http://192.168.1.3:8081" alt="" class="video">
+    <img src="http://192.168.1.12:8081" alt="" class="video">
     <div class="buttons">
         <form action="./run.php" method="post">
             <input type="submit" value="OPEN" name="GO">
