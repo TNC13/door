@@ -1,9 +1,13 @@
 body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .video {
-    border: 1px solid orange;
-    width: 100%;
-    max-width: 1000px;
+  border: 1px solid orange;
+  width: 100%;
+  max-width: 1000px;
+}
+
+.terraTest {
+  border: 1px dotted red;
 }
